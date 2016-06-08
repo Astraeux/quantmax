@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*- 
 """
-蛋卷斗牛二八轮动（T+0）回测
+雪球蛋卷斗牛二八轮动（T+0）回测
 """
 import tushare as ts
 import pymongo
